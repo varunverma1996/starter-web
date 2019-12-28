@@ -1,5 +1,5 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The humans responsible & technology colophon, changes in simple-change branch
 
 # TEAM
 
