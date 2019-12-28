@@ -18,3 +18,5 @@ for staging area
 this!!!!
 ##coyright
 this is change in copyright branch
+##HOW TO CONTINUE
+this is how we continue the process
