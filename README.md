@@ -24,3 +24,4 @@ this is how we continue the process
 this is for change in rebase command
 ##THIS IS FOR REBASE AGAIN!!!
 this is for rebase cmd
+##THIS SI FOR STASH!!
